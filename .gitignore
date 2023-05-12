@@ -1,7 +1,11 @@
 __pycache__/
 *.pyc
-
 .ipynb_checkpoints/
+
+# Ignore data files
+Douglass_Resch_Madara_etal_2023_Data/Photometry/*
+*.zip
+
 
 .DS_Store
 .DS_Store?
